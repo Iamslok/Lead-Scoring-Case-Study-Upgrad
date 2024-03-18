@@ -18,8 +18,8 @@ The steps are broadly:
 
 ## Read and understand the data
 
-> Clean the data
-> Prepare the data for Model Building
-> Model Building
-> Model Evaluation
-> Making Predictions on the Test Set
+1. Clean the data
+2. Prepare the data for Model Building
+3.  Model Building
+4.  Model Evaluation
+5.  Making Predictions on the Test Set
